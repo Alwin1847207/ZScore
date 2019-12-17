@@ -7,7 +7,7 @@ setup(
   description = 'Performs ZScore normalization in your dataset.',   # Give a short description about your library
   author = 'ALWIN JOSEPH',                   # Type in your name
   author_email = 'alwin.joseph@mca.christuniversity.in',      # Type in your E-Mail
-  url = '',   # Provide either the link to your github or to your website
+  url = 'https://github.com/Alwin1847207/zscore.git',   # Provide either the link to your github or to your website
   download_url = '',    # I explain this later on
   keywords = ['zscore','z score','z-score','ZScore','Z Score','Z-Score', 'normalization', 'python'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
